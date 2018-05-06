@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlappyBird</string>
+    <string name="sNewGame">NewGame</string>
+    <string name="sHighScore">High Score</string>
+    <string name="sAbout">About</string>
+    <string name="sRetry">Play \nAgain?</string>
+    <string name="sMainMenu">Main\nMenu</string>
+    <string name="sAboutText">This app is a redesign of the infamous Flappy
+    bird game. This iteration has expanded on the original version by adding
+    three different environments to play in as well as three different animals to
+    play as. We hope you enjoy this version of the game!</string>
+    <string name="sContact">Contact Info for the creators of this app:</string>
+    <string name="sContactJoe">Joe: sche1234@pacificu.edu</string>
+    <string name="sContactSagnik">Sagnik: bhad1234@pacificu.edu</string>
+    <string name="title_activity_end_game">EndGameActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>

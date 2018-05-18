@@ -1,5 +1,5 @@
 /***********************************************************************
- * Name:           Joseph Schell
+ * Name:           Joseph Schell & Sagnik Bhadra
  * Assignment:     Fluttery Floppy Fish-Bee-Alien
  * Class:          ObstacleSprite
  * Date:           1/23/2018

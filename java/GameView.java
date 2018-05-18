@@ -1,5 +1,5 @@
 /***********************************************************************
- * Name:           Joesph Schell
+ * Name:           Joesph Schell & Sagnik Bhadra
  * Assignment:     Fluttery Floppy Fish-Bee-Alien
  * Class:          GameView
  * Date:           1/23/2018

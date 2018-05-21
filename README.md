@@ -9,7 +9,7 @@ something new that we did not learn within the course. We decided to implement
 the Flappy Bird Android game, with a few twists and this is what we came up with.
 
 We were also required to give a 15-minute presentation after completing the game.
-The presentation was mostly vocal, so there is mostly pictures are diagrams on
+The presentation was mostly vocal, so there is mostly pictures and diagrams on
 the slides. Here is the presentation we gave after 4 days of non-stop coding:
 
 https://docs.google.com/presentation/d/1lkJWKCK3wyYI8ZeWj3MtOfoB6PXUEyQmMqsOjyv9-UY/edit?usp=sharing
